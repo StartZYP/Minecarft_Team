@@ -1,0 +1,21 @@
+#主城世界,自动传到主城世界的出生点
+World: "world"
+#队伍最大人数
+MaxCount: 6
+
+#在队伍中的经验加成
+DoublyExp: 1.5
+
+#副本世界
+Worlds:
+  #世界名字: 最少人数
+  fuben1: 5
+
+
+  
+  
+Message:
+  WorldMessage: "§c进入这个副本世界至少要有<count>人才行"
+  ExpMessage: "§c你在队伍中,获得了1.5倍经验加成,此次总共获得<exp>经验"
+  KickMessage: "§c队伍人数不足,已将你传送回主城"
+  

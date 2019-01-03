@@ -1,0 +1,7 @@
+name: Team
+main: com.qq44920040.miecarft.Team.TeamMain
+author: q44920040
+qq: 44920040
+version: 0.1
+commands:
+  team:
